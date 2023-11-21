@@ -13,7 +13,7 @@
 
 ## Решение
 Имплементация модели из [статьи](https://arxiv.org/pdf/2004.01241.pdf)  
-![image]()  
+![image](https://github.com/DanishevskiyNS/CV_2023_lab5/blob/main/images/model_architecture.png)  
 Оптимизатор - Adam, lоss - cross_entropy, batch_size = 16, количество эпох - 50
 
 ## Метрики
